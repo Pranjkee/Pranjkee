@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pranjkee
-- 👀 I’m interested in java
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science
+- 🌱 I’m currently doing my masters in computer science
+- 💞️ I’m looking to collaborate on data science projects...
 - 📫 How to reach me ...
 
 <!---
